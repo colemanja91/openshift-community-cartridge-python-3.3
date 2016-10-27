@@ -62,6 +62,13 @@ Native-Requires:
   - libjpeg-devel
   - libcurl
   - libcurl-devel
+  - numpy
+  - scipy
+  - python-matplotlib
+  - python-pandas
+  - sympy
+  - python-nose
+  - atlas-devel
 Architecture: noarch
 Reservations:
   - MEM >= 100MB
